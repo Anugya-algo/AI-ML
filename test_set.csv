@@ -1,0 +1,774 @@
+Id,Product_Code,Product_Weight,Fat_Category,Visibility_Score,Category_Type,Retail_Price,Store_Code,Year_Opened,Store_Size,Location_Class,Store_Category
+1,NCD19,8.93,Reduced,0,HomeGoods,53.8614,OUT013,1987,Spacious,Rural,Superstore A
+2,FDU28,19.2,Standard,0.09444959,Frozen Foods,187.8214,OUT017,2007,,Suburban,Superstore A
+3,FDY45,,Reduced,0.026015519,Snack Foods,255.8356,OUT027,1985,Standard,Rural,Superstore C
+4,NCP18,,Reduced,0.028459761,HomeGoods,149.9708,OUT027,1985,Standard,Rural,Superstore C
+5,FDV11,9.1,Standard,0,Breads,173.2054,OUT045,2002,,Suburban,Superstore A
+6,FDZ16,16.85,Standard,0.160760054,Frozen Foods,192.4478,OUT017,2007,,Suburban,Superstore A
+7,FDY58,11.65,Reduced,0.040081193,Snack Foods,227.0694,OUT018,2009,Standard,Rural,Superstore B
+8,FDS52,8.89,Reduced,0.009163216,Frozen Foods,101.7016,OUT010,1998,,Rural,MiniMart
+9,NCC30,16.6,Reduced,0.027622076,HomeGoods,177.6344,OUT049,1999,Standard,Urban,Superstore A
+10,FDX20,7.365,Reduced,0.042560252,Produce,226.172,OUT046,1997,Compact,Urban,Superstore A
+11,FDR07,,Reduced,0.077367431,Produce,97.0094,OUT027,1985,Standard,Rural,Superstore C
+12,NCB19,6.525,Reduced,0.090436094,HomeGoods,85.0882,OUT049,1999,Standard,Urban,Superstore A
+13,FDV15,10.3,Reduced,0.146399712,Proteins,103.9648,OUT049,1999,Standard,Urban,Superstore A
+14,NCN55,14.6,Reduced,0.059582996,Others,238.8538,OUT049,1999,Standard,Urban,Superstore A
+15,FDN57,18.25,Reduced,0.054344186,Snack Foods,140.2154,OUT045,2002,,Suburban,Superstore A
+16,FDG52,13.65,Reduced,0.065732883,Frozen Foods,45.7402,OUT049,1999,Standard,Urban,Superstore A
+17,FDT25,7.5,Reduced,0.051038045,Canned,121.7072,OUT017,2007,,Suburban,Superstore A
+18,NCO07,,Reduced,0.017116983,Others,211.956,OUT019,1985,Compact,Urban,MiniMart
+19,FDQ04,,Reduced,0.148392623,Frozen Foods,41.5796,OUT019,1985,Compact,Urban,MiniMart
+20,FDG28,9.285,Standard,0.049559042,Frozen Foods,246.4144,OUT017,2007,,Suburban,Superstore A
+21,FDV20,,Standard,0.104704537,Produce,125.2678,OUT019,1985,Compact,Urban,MiniMart
+22,FDO01,,Standard,0.020618324,Breakfast,129.3994,OUT027,1985,Standard,Rural,Superstore C
+23,FDN39,,Standard,0.065203103,Proteins,166.0816,OUT027,1985,Standard,Rural,Superstore C
+24,FDY32,7.605,Reduced,0.129503146,Produce,164.021,OUT045,2002,,Suburban,Superstore A
+25,FDQ56,6.59,Reduced,0.105761491,Produce,84.8908,OUT049,1999,Standard,Urban,Superstore A
+26,FDZ38,17.6,Reduced,0.008033611,Edibles,174.2422,OUT018,2009,Standard,Rural,Superstore B
+27,FDW35,,Reduced,0.0194158,Breads,41.6454,OUT019,1985,Compact,Urban,MiniMart
+28,NCE43,12.5,Reduced,0.103422709,HomeGoods,169.9448,OUT035,2004,Compact,Suburban,Superstore A
+29,NCS54,13.6,Reduced,0.009984847,HomeGoods,175.437,OUT013,1987,Spacious,Rural,Superstore A
+30,NCH06,12.3,Reduced,0.076709639,HomeGoods,247.846,OUT045,2002,,Suburban,Superstore A
+31,NCG42,19.2,Reduced,0,HomeGoods,127.831,OUT045,2002,,Suburban,Superstore A
+32,FDB15,10.895,Reduced,0.228993134,Edibles,263.4568,OUT010,1998,,Rural,MiniMart
+33,FDE53,,Reduced,0.026749991,Frozen Foods,106.928,OUT027,1985,Standard,Rural,Superstore C
+34,FDQ37,20.75,Reduced,0.149404057,Breakfast,192.8478,OUT010,1998,,Rural,MiniMart
+35,FDK28,5.695,Reduced,0.065857092,Frozen Foods,258.5646,OUT018,2009,Standard,Rural,Superstore B
+36,FDO19,,Standard,0.016516275,Produce,47.4034,OUT027,1985,Standard,Rural,Superstore C
+37,NCL19,15.35,Reduced,0.015673267,Others,145.047,OUT035,2004,Compact,Suburban,Superstore A
+38,FDS32,17.75,Standard,0,Produce,139.9838,OUT045,2002,,Suburban,Superstore A
+39,FDT08,13.65,Reduced,0.049318315,Produce,149.005,OUT045,2002,,Suburban,Superstore A
+40,DRK35,,Reduced,0.125793938,Hard Drinks,36.2506,OUT019,1985,Compact,Urban,MiniMart
+41,FDW03,5.63,Standard,0.024579432,Proteins,105.3306,OUT049,1999,Standard,Urban,Superstore A
+42,FDR08,18.7,Reduced,0.037699254,Produce,110.2886,OUT045,2002,,Suburban,Superstore A
+43,FDW49,19.5,Reduced,0.082719632,Canned,179.3002,OUT045,2002,,Suburban,Superstore A
+44,FDX33,9.195,Standard,0.118149377,Snack Foods,160.5578,OUT017,2007,,Suburban,Superstore A
+45,FDT32,,Standard,0.065316099,Produce,189.9214,OUT027,1985,Standard,Rural,Superstore C
+46,FDW22,9.695,Standard,0.03033748,Snack Foods,222.9114,OUT049,1999,Standard,Urban,Superstore A
+47,FDG38,8.975,Standard,0.05268526,Canned,83.3224,OUT013,1987,Spacious,Rural,Superstore A
+48,FDU11,4.785,Reduced,0.092516598,Breads,120.1098,OUT013,1987,Spacious,Rural,Superstore A
+49,NCL53,7.5,Reduced,0.036234918,Health and Hygiene,175.3028,OUT046,1997,Compact,Urban,Superstore A
+50,NCZ06,,Reduced,0.164864915,HomeGoods,255.2698,OUT019,1985,Compact,Urban,MiniMart
+51,FDV37,13,Standard,0.083498083,Canned,199.4426,OUT035,2004,Compact,Suburban,Superstore A
+52,FDH21,10.395,Reduced,0.031273559,Seafood,160.0604,OUT049,1999,Standard,Urban,Superstore A
+53,NCQ38,16.35,Reduced,0.013420879,Others,104.828,OUT018,2009,Standard,Rural,Superstore B
+54,FDW49,19.5,Reduced,0.082552214,Canned,179.8002,OUT046,1997,Compact,Urban,Superstore A
+55,DRK23,8.395,Reduced,0.072088552,Hard Drinks,253.704,OUT049,1999,Standard,Urban,Superstore A
+56,FDF40,20.25,Standard,0.022639471,Edibles,248.4092,OUT017,2007,,Suburban,Superstore A
+57,FDY26,20.6,Standard,0.030510526,Edibles,211.4244,OUT046,1997,Compact,Urban,Superstore A
+58,NCL19,15.35,Reduced,0.015663185,Others,143.947,OUT013,1987,Spacious,Rural,Superstore A
+59,FDO04,,Reduced,0.026408698,Frozen Foods,53.2614,OUT027,1985,Standard,Rural,Superstore C
+60,FDO45,13.15,Standard,0.038029746,Snack Foods,88.6856,OUT045,2002,,Suburban,Superstore A
+61,FDG44,6.13,Reduced,0.102607233,Produce,54.0298,OUT018,2009,Standard,Rural,Superstore B
+62,NCI54,15.2,Reduced,0.033735909,HomeGoods,110.9912,OUT018,2009,Standard,Rural,Superstore B
+63,FDF46,7.07,Reduced,0.093653464,Snack Foods,113.3834,OUT035,2004,Compact,Suburban,Superstore A
+64,NCK17,,Reduced,0.037711338,Health and Hygiene,41.548,OUT027,1985,Standard,Rural,Superstore C
+65,FDX26,17.7,Reduced,0.146973462,Edibles,184.1292,OUT010,1998,,Rural,MiniMart
+66,FDJ40,,Standard,0.049349121,Frozen Foods,108.6912,OUT027,1985,Standard,Rural,Superstore C
+67,FDU13,,Reduced,0.328390948,Canned,146.0418,OUT019,1985,Compact,Urban,MiniMart
+68,FDL46,20.35,Reduced,0.054362695,Snack Foods,117.9466,OUT017,2007,,Suburban,Superstore A
+69,FDA51,8.05,Standard,0.164542555,Edibles,112.2518,OUT013,1987,Spacious,Rural,Superstore A
+70,FDQ08,,Standard,0.018838681,Produce,62.9536,OUT027,1985,Standard,Rural,Superstore C
+71,FDS47,16.75,Reduced,0.129086113,Breads,89.4856,OUT049,1999,Standard,Urban,Superstore A
+72,FDJ33,8.895,Standard,0.088821765,Snack Foods,125.173,OUT017,2007,,Suburban,Superstore A
+73,FDB15,10.895,Reduced,0.136810742,Edibles,263.0568,OUT046,1997,Compact,Urban,Superstore A
+74,FDQ24,,Reduced,0.12898088,Baking Goods,250.4724,OUT019,1985,Compact,Urban,MiniMart
+75,FDF21,10.3,Standard,0.098464979,Produce,188.653,OUT010,1998,,Rural,MiniMart
+76,FDZ23,17.75,Standard,0.112985849,Baking Goods,185.424,OUT010,1998,,Rural,MiniMart
+77,FDR14,11.65,Reduced,0.175033524,Edibles,55.5298,OUT017,2007,,Suburban,Superstore A
+78,FDZ33,10.195,Reduced,0.107376743,Snack Foods,147.6076,OUT035,2004,Compact,Suburban,Superstore A
+79,FDO34,17.7,Reduced,0.050111641,Snack Foods,165.9816,OUT010,1998,,Rural,MiniMart
+80,FDY58,11.65,Reduced,0.040144377,Snack Foods,228.9694,OUT017,2007,,Suburban,Superstore A
+81,FDR43,18.2,Reduced,0.161355122,Produce,38.319,OUT013,1987,Spacious,Rural,Superstore A
+82,FDZ25,,Standard,0.02748331,Canned,169.379,OUT027,1985,Standard,Rural,Superstore C
+83,FDI45,13.1,Reduced,0.037549969,Produce,176.1054,OUT013,1987,Spacious,Rural,Superstore A
+84,NCX29,,Reduced,0.156094569,Health and Hygiene,144.3102,OUT019,1985,Compact,Urban,MiniMart
+85,FDB40,17.5,Standard,0.007555176,Edibles,145.9102,OUT045,2002,,Suburban,Superstore A
+86,FDA34,11.5,Reduced,0.014944614,Starchy Foods,171.808,OUT017,2007,,Suburban,Superstore A
+87,FDZ56,16.25,Reduced,0.025732114,Produce,166.4474,OUT035,2004,Compact,Suburban,Superstore A
+88,NCO18,13.15,Reduced,0.024646608,HomeGoods,177.4686,OUT035,2004,Compact,Suburban,Superstore A
+89,FDD21,10.3,Standard,0.030563449,Produce,114.4176,OUT035,2004,Compact,Suburban,Superstore A
+90,FDQ37,20.75,Reduced,0.089260667,Breakfast,193.4478,OUT046,1997,Compact,Urban,Superstore A
+91,FDV43,16,Reduced,0.076975118,Produce,46.2086,OUT049,1999,Standard,Urban,Superstore A
+92,FDU46,10.3,Standard,0.011143599,Snack Foods,88.254,OUT049,1999,Standard,Urban,Superstore A
+93,FDD09,13.5,Reduced,0,Produce,179.9976,OUT013,1987,Spacious,Rural,Superstore A
+94,DRA24,19.35,Standard,0.040154087,Beverages,164.6868,OUT017,2007,,Suburban,Superstore A
+95,FDG34,11.5,Standard,0.037539164,Snack Foods,106.9254,OUT013,1987,Spacious,Rural,Superstore A
+96,FDF21,,Standard,0.058542509,Produce,188.353,OUT027,1985,Standard,Rural,Superstore C
+97,FDO33,14.75,Reduced,0.089686322,Snack Foods,115.3518,OUT018,2009,Standard,Rural,Superstore B
+98,NCO43,5.5,Reduced,0.047364617,Others,100.0016,OUT017,2007,,Suburban,Superstore A
+99,FDA50,16.25,Reduced,0.087668236,Edibles,94.941,OUT017,2007,,Suburban,Superstore A
+100,FDV44,8.365,Standard,0.039906377,Produce,191.3188,OUT049,1999,Standard,Urban,Superstore A
+101,DRD15,10.6,Reduced,0.056911107,Edibles,233.9642,OUT045,2002,,Suburban,Superstore A
+102,NCN07,18.5,Reduced,0.03391645,Others,130.9284,OUT013,1987,Spacious,Rural,Superstore A
+103,FDF57,14.5,Standard,0.058827383,Produce,172.2448,OUT046,1997,Compact,Urban,Superstore A
+104,DRG01,14.8,Reduced,0.044840933,Beverages,78.367,OUT013,1987,Spacious,Rural,Superstore A
+105,DRG11,6.385,Reduced,0,Hard Drinks,108.9596,OUT046,1997,Compact,Urban,Superstore A
+106,FDJ22,18.75,Reduced,0.05310896,Snack Foods,193.6504,OUT017,2007,,Suburban,Superstore A
+107,NCW29,,Reduced,0.028723187,Health and Hygiene,131.831,OUT027,1985,Standard,Rural,Superstore C
+108,NCZ53,9.6,Reduced,0.024576875,Health and Hygiene,186.6214,OUT018,2009,Standard,Rural,Superstore B
+109,FDY24,4.88,Standard,0.223440258,Baking Goods,52.2298,OUT010,1998,,Rural,MiniMart
+110,NCN07,18.5,Reduced,0.034013539,Others,133.2284,OUT045,2002,,Suburban,Superstore A
+111,FDO23,,Reduced,0.25637539,Breads,94.8436,OUT019,1985,Compact,Urban,MiniMart
+112,FDG17,6.865,Standard,0.035895934,Frozen Foods,244.4486,OUT049,1999,Standard,Urban,Superstore A
+113,FDC51,10.895,Standard,0.009636821,Edibles,121.873,OUT049,1999,Standard,Urban,Superstore A
+114,FDK20,12.6,Standard,0.041557653,Produce,124.5072,OUT046,1997,Compact,Urban,Superstore A
+115,DRD24,13.85,Reduced,0.030795085,Beverages,143.3154,OUT046,1997,Compact,Urban,Superstore A
+116,FDG24,7.975,Reduced,0.01469075,Baking Goods,84.725,OUT018,2009,Standard,Rural,Superstore B
+117,FDW19,12.35,Standard,0.038718195,Produce,110.657,OUT017,2007,,Suburban,Superstore A
+118,FDY10,17.6,Reduced,0.049167388,Snack Foods,114.9176,OUT045,2002,,Suburban,Superstore A
+119,FDA04,,Standard,0.066406853,Frozen Foods,259.7962,OUT027,1985,Standard,Rural,Superstore C
+120,FDH50,15,Standard,0.161301097,Canned,185.1266,OUT013,1987,Spacious,Rural,Superstore A
+121,NCA41,16.75,Reduced,0.032580547,Health and Hygiene,192.1162,OUT035,2004,Compact,Suburban,Superstore A
+122,FDZ49,11,Standard,0.13312044,Canned,221.5798,OUT035,2004,Compact,Suburban,Superstore A
+123,FDD57,18.1,Reduced,0.037492325,Produce,95.5094,OUT010,1998,,Rural,MiniMart
+124,FDL40,17.7,Reduced,0.011660463,Frozen Foods,96.541,OUT018,2009,Standard,Rural,Superstore B
+125,NCM18,,Reduced,0.082440705,HomeGoods,61.3194,OUT027,1985,Standard,Rural,Superstore C
+126,FDE45,,Reduced,0.070660449,Produce,180.4002,OUT019,1985,Compact,Urban,MiniMart
+127,FDD10,20.6,Standard,0.046208155,Snack Foods,178.0344,OUT018,2009,Standard,Rural,Superstore B
+128,NCL30,18.1,Reduced,0.049016517,HomeGoods,128.7336,OUT049,1999,Standard,Urban,Superstore A
+129,FDS15,9.195,Standard,0.077995641,Proteins,107.1596,OUT013,1987,Spacious,Rural,Superstore A
+130,FDB44,6.655,Reduced,0.016958832,Produce,210.0586,OUT046,1997,Compact,Urban,Superstore A
+131,FDO50,16.25,Reduced,0,Canned,89.8804,OUT017,2007,,Suburban,Superstore A
+132,NCP06,20.7,Reduced,0.039405676,HomeGoods,149.8366,OUT018,2009,Standard,Rural,Superstore B
+133,FDA39,6.32,Reduced,0.012717946,Proteins,40.2822,OUT046,1997,Compact,Urban,Superstore A
+134,FDZ34,6.695,Reduced,0,Starchy Foods,191.882,OUT013,1987,Spacious,Rural,Superstore A
+135,FDO40,17.1,Reduced,0.032678839,Frozen Foods,150.7392,OUT049,1999,Standard,Urban,Superstore A
+136,FDD21,10.3,Standard,0,Produce,115.0176,OUT013,1987,Spacious,Rural,Superstore A
+137,FDV02,16.75,Reduced,0.060792265,Edibles,170.4106,OUT018,2009,Standard,Rural,Superstore B
+138,FDT40,5.985,Reduced,0.095715608,Frozen Foods,125.8678,OUT013,1987,Spacious,Rural,Superstore A
+139,NCO05,7.27,Reduced,0.046822808,Health and Hygiene,99.3384,OUT017,2007,,Suburban,Superstore A
+140,FDU03,18.7,Standard,0.091950972,Proteins,184.2292,OUT018,2009,Standard,Rural,Superstore B
+141,FDZ49,11,Standard,0.133145617,Canned,218.4798,OUT046,1997,Compact,Urban,Superstore A
+142,NCX30,,Reduced,0.046609281,HomeGoods,248.6776,OUT019,1985,Compact,Urban,MiniMart
+143,FDB15,10.895,Reduced,0.136696892,Edibles,264.5568,OUT013,1987,Spacious,Rural,Superstore A
+144,DRK47,7.905,Reduced,0.064194304,Hard Drinks,229.4694,OUT045,2002,,Suburban,Superstore A
+145,DRD37,9.8,Reduced,0.013920032,Beverages,45.006,OUT017,2007,,Suburban,Superstore A
+146,FDH40,11.6,Standard,0.079251097,Frozen Foods,79.2276,OUT018,2009,Standard,Rural,Superstore B
+147,DRA12,11.6,Reduced,0,Beverages,141.9154,OUT035,2004,Compact,Suburban,Superstore A
+148,FDL03,19.25,Standard,0.027233781,Proteins,197.511,OUT017,2007,,Suburban,Superstore A
+149,NCM18,13,Reduced,0.082970667,HomeGoods,60.0194,OUT049,1999,Standard,Urban,Superstore A
+150,FDS11,7.05,Standard,0.055558509,Breads,224.7088,OUT046,1997,Compact,Urban,Superstore A
+151,FDC17,12.15,Reduced,0.01544786,Frozen Foods,211.2928,OUT013,1987,Spacious,Rural,Superstore A
+152,DRK11,8.21,Reduced,0.010762387,Hard Drinks,149.5392,OUT035,2004,Compact,Suburban,Superstore A
+153,FDB04,11.35,Standard,0.063354531,Edibles,88.9856,OUT045,2002,,Suburban,Superstore A
+154,FDP20,19.85,Reduced,0.045669236,Produce,126.402,OUT046,1997,Compact,Urban,Superstore A
+155,FDZ45,14.1,Reduced,0.111936685,Snack Foods,198.8084,OUT010,1998,,Rural,MiniMart
+156,FDA10,,Reduced,0.248301532,Snack Foods,124.1072,OUT019,1985,Compact,Urban,MiniMart
+157,FDO58,19.6,Reduced,0.039569689,Snack Foods,165.9526,OUT035,2004,Compact,Suburban,Superstore A
+158,NCJ18,12.35,Reduced,0.274405193,HomeGoods,117.1124,OUT010,1998,,Rural,MiniMart
+159,FDY04,17.7,Standard,0.042468413,Frozen Foods,162.421,OUT035,2004,Compact,Suburban,Superstore A
+160,FDG57,14.7,Reduced,0.072592873,Produce,48.5034,OUT018,2009,Standard,Rural,Superstore B
+161,FDU60,20,Standard,0.059889718,Baking Goods,168.5132,OUT035,2004,Compact,Suburban,Superstore A
+162,FDB12,11.15,Standard,0.105736638,Baking Goods,104.4648,OUT018,2009,Standard,Rural,Superstore B
+163,FDR55,12.15,Standard,0.132351411,Produce,190.3872,OUT045,2002,,Suburban,Superstore A
+164,FDT26,18.85,Standard,0.067940657,Edibles,119.044,OUT035,2004,Compact,Suburban,Superstore A
+165,DRD24,13.85,Reduced,0.030769458,Beverages,141.7154,OUT013,1987,Spacious,Rural,Superstore A
+166,DRG48,5.78,Reduced,0.014614357,Beverages,147.3102,OUT018,2009,Standard,Rural,Superstore B
+167,FDC33,8.96,Standard,0.069078149,Produce,197.7768,OUT045,2002,,Suburban,Superstore A
+168,NCM53,18.75,Reduced,0.052121825,Health and Hygiene,104.828,OUT049,1999,Standard,Urban,Superstore A
+169,FDI16,14,Standard,0.135662712,Frozen Foods,52.064,OUT013,1987,Spacious,Rural,Superstore A
+170,DRG37,16.2,Reduced,0.019417732,Beverages,153.7972,OUT045,2002,,Suburban,Superstore A
+171,DRJ47,,Reduced,0.04403602,Hard Drinks,173.308,OUT027,1985,Standard,Rural,Superstore C
+172,FDZ43,,Standard,0.056782237,Produce,241.2512,OUT027,1985,Standard,Rural,Superstore C
+173,FDG41,8.84,Standard,0.076681143,Frozen Foods,110.7228,OUT049,1999,Standard,Urban,Superstore A
+174,NCD42,16.5,Reduced,0.012663476,Health and Hygiene,39.3506,OUT045,2002,,Suburban,Superstore A
+175,NCN19,13.1,Reduced,0.012148836,Others,191.353,OUT018,2009,Standard,Rural,Superstore B
+176,FDE41,,Standard,0,Frozen Foods,83.7566,OUT019,1985,Compact,Urban,MiniMart
+177,FDH02,7.27,Standard,0.02076385,Canned,89.0488,OUT013,1987,Spacious,Rural,Superstore A
+178,FDB56,8.75,Standard,0.074743226,Produce,187.6556,OUT049,1999,Standard,Urban,Superstore A
+179,FDN04,11.8,Standard,0.014075334,Frozen Foods,176.8344,OUT013,1987,Spacious,Rural,Superstore A
+180,FDR55,,Standard,0.131443921,Produce,189.1872,OUT027,1985,Standard,Rural,Superstore C
+181,FDR36,6.715,Standard,0.122274118,Baking Goods,40.3454,OUT017,2007,,Suburban,Superstore A
+182,NCY06,15.25,Reduced,0.061308889,HomeGoods,128.8968,OUT045,2002,,Suburban,Superstore A
+183,FDX50,20.1,Reduced,0.074627201,Edibles,110.3228,OUT046,1997,Compact,Urban,Superstore A
+184,FDR26,20.7,Reduced,0.042923652,Edibles,178.3028,OUT045,2002,,Suburban,Superstore A
+185,NCI31,,Reduced,0.080933328,Others,37.519,OUT027,1985,Standard,Rural,Superstore C
+186,FDD56,15.2,Standard,0.104201019,Produce,176.5054,OUT018,2009,Standard,Rural,Superstore B
+187,FDL33,7.235,Reduced,0.10016525,Snack Foods,193.9452,OUT045,2002,,Suburban,Superstore A
+188,FDE05,10.895,Standard,0.05432142,Frozen Foods,146.2102,OUT010,1998,,Rural,MiniMart
+189,FDH09,,Reduced,0.055806016,Seafood,52.4982,OUT027,1985,Standard,Rural,Superstore C
+190,DRJ23,18.35,Reduced,0.069745165,Hard Drinks,190.2872,OUT010,1998,,Rural,MiniMart
+191,NCJ05,,Reduced,0.045865089,Health and Hygiene,152.3682,OUT027,1985,Standard,Rural,Superstore C
+192,FDU01,,Standard,0.021002171,Canned,185.1924,OUT019,1985,Compact,Urban,MiniMart
+193,FDC02,21.35,Reduced,0.068809463,Canned,258.5278,OUT035,2004,Compact,Suburban,Superstore A
+194,FDU24,6.78,Standard,0.140955857,Baking Goods,92.212,OUT017,2007,,Suburban,Superstore A
+195,FDX11,16,Standard,0.107186944,Baking Goods,181.9634,OUT018,2009,Standard,Rural,Superstore B
+196,FDC17,12.15,Reduced,0.015484763,Frozen Foods,211.9928,OUT049,1999,Standard,Urban,Superstore A
+197,FDS28,,Standard,0.082002559,Frozen Foods,59.2588,OUT027,1985,Standard,Rural,Superstore C
+198,FDE53,10.895,Reduced,0.026880159,Frozen Foods,106.428,OUT046,1997,Compact,Urban,Superstore A
+199,NCQ02,12.6,Reduced,0.007455054,HomeGoods,186.9556,OUT035,2004,Compact,Suburban,Superstore A
+200,DRB13,6.115,Standard,0.01179078,Beverages,189.053,OUT010,1998,,Rural,MiniMart
+201,FDK27,11,Reduced,0.008960445,Proteins,119.1756,OUT049,1999,Standard,Urban,Superstore A
+202,NCI54,15.2,Reduced,0.056237906,HomeGoods,110.7912,OUT010,1998,,Rural,MiniMart
+203,FDI48,11.85,Standard,0.055805027,Baking Goods,53.0666,OUT049,1999,Standard,Urban,Superstore A
+204,FDT32,19,Standard,0.065735977,Produce,189.6214,OUT049,1999,Standard,Urban,Superstore A
+205,FDL04,,Reduced,0.111381428,Frozen Foods,106.7622,OUT027,1985,Standard,Rural,Superstore C
+206,FDT28,13.3,Reduced,0.06356617,Frozen Foods,151.3708,OUT046,1997,Compact,Urban,Superstore A
+207,FDC17,12.15,Reduced,0.015457803,Frozen Foods,209.9928,OUT035,2004,Compact,Suburban,Superstore A
+208,FDX50,20.1,Reduced,0.074931201,Edibles,108.9228,OUT018,2009,Standard,Rural,Superstore B
+209,FDG02,,Reduced,0.011206632,Canned,191.4188,OUT027,1985,Standard,Rural,Superstore C
+210,FDS40,15.35,Reduced,0.014047825,Frozen Foods,36.719,OUT045,2002,,Suburban,Superstore A
+211,DRF25,9,Reduced,0.039004193,Beverages,37.019,OUT045,2002,,Suburban,Superstore A
+212,NCC07,19.6,Reduced,0.023931217,HomeGoods,103.1964,OUT013,1987,Spacious,Rural,Superstore A
+213,DRI01,7.97,Reduced,0.034647829,Beverages,171.2422,OUT017,2007,,Suburban,Superstore A
+214,NCE30,16,Reduced,0.099136036,HomeGoods,210.3902,OUT046,1997,Compact,Urban,Superstore A
+215,FDF57,,Standard,0.058542509,Produce,168.6448,OUT027,1985,Standard,Rural,Superstore C
+216,NCL17,7.39,Reduced,0.067766896,Health and Hygiene,140.6812,OUT035,2004,Compact,Suburban,Superstore A
+217,FDS47,16.75,Reduced,0,Breads,88.7856,OUT045,2002,,Suburban,Superstore A
+218,NCC07,19.6,Reduced,0.023999722,HomeGoods,104.0964,OUT045,2002,,Suburban,Superstore A
+219,DRH49,19.7,Reduced,0.024655594,Beverages,84.3592,OUT046,1997,Compact,Urban,Superstore A
+220,FDY51,12.5,Reduced,0.081134826,Proteins,220.0798,OUT046,1997,Compact,Urban,Superstore A
+221,FDV03,17.6,Reduced,0.058042926,Proteins,154.6314,OUT013,1987,Spacious,Rural,Superstore A
+222,NCB30,14.6,Reduced,0.025742955,HomeGoods,197.1084,OUT049,1999,Standard,Urban,Superstore A
+223,FDX23,6.445,Reduced,0.029812714,Baking Goods,95.4436,OUT018,2009,Standard,Rural,Superstore B
+224,FDZ37,8.1,Standard,0,Canned,88.5198,OUT013,1987,Spacious,Rural,Superstore A
+225,NCI54,15.2,Reduced,0.03366718,HomeGoods,109.6912,OUT045,2002,,Suburban,Superstore A
+226,NCQ29,12,Reduced,0.104230135,Health and Hygiene,259.5278,OUT046,1997,Compact,Urban,Superstore A
+227,FDT07,,Standard,0.135375727,Produce,256.133,OUT019,1985,Compact,Urban,MiniMart
+228,NCI55,18.6,Reduced,0.012679226,HomeGoods,120.9414,OUT045,2002,,Suburban,Superstore A
+229,FDG26,18.85,Reduced,0.04282359,Canned,254.433,OUT018,2009,Standard,Rural,Superstore B
+230,NCD18,16,Reduced,0.072608647,HomeGoods,228.3668,OUT013,1987,Spacious,Rural,Superstore A
+231,NCI29,8.6,Reduced,0.032621545,Health and Hygiene,143.2154,OUT046,1997,Compact,Urban,Superstore A
+232,FDY08,,Standard,0.170246782,Produce,141.5838,OUT027,1985,Standard,Rural,Superstore C
+233,DRN59,15,Reduced,0.064271703,Hard Drinks,45.506,OUT045,2002,,Suburban,Superstore A
+234,NCO29,11.15,Reduced,0.032250092,Health and Hygiene,164.0526,OUT035,2004,Compact,Suburban,Superstore A
+235,FDA35,14.85,Standard,0.054142088,Baking Goods,124.1072,OUT017,2007,,Suburban,Superstore A
+236,FDH05,,Standard,0.090473389,Frozen Foods,229.7984,OUT027,1985,Standard,Rural,Superstore C
+237,NCZ54,14.65,Reduced,0.083359391,HomeGoods,161.9552,OUT046,1997,Compact,Urban,Superstore A
+238,FDM15,,Standard,0.057143515,Proteins,151.8366,OUT027,1985,Standard,Rural,Superstore C
+239,FDT55,13.6,Standard,0.043618827,Produce,156.7946,OUT013,1987,Spacious,Rural,Superstore A
+240,FDP07,18.2,Reduced,0.08982696,Produce,197.111,OUT013,1987,Spacious,Rural,Superstore A
+241,FDL33,,Reduced,0.099478451,Snack Foods,194.4452,OUT027,1985,Standard,Rural,Superstore C
+242,NCE31,7.67,Reduced,0.185889129,HomeGoods,35.4216,OUT017,2007,,Suburban,Superstore A
+243,FDZ26,11.6,Standard,0.143990173,Edibles,239.6222,OUT035,2004,Compact,Suburban,Superstore A
+244,DRE49,20.75,Reduced,0.021232318,Beverages,151.1024,OUT013,1987,Spacious,Rural,Superstore A
+245,NCX18,,Reduced,0.015397129,HomeGoods,194.911,OUT019,1985,Compact,Urban,MiniMart
+246,FDN57,,Reduced,0.053971566,Snack Foods,141.2154,OUT027,1985,Standard,Rural,Superstore C
+247,FDJ56,8.985,Reduced,0.183774965,Produce,101.77,OUT045,2002,,Suburban,Superstore A
+248,DRD15,,Reduced,0.099442329,Edibles,233.1642,OUT019,1985,Compact,Urban,MiniMart
+249,FDY13,12.1,Reduced,0.030297819,Canned,74.767,OUT017,2007,,Suburban,Superstore A
+250,FDA57,,Reduced,0.039451625,Snack Foods,39.548,OUT027,1985,Standard,Rural,Superstore C
+251,DRK13,,Reduced,0.114609875,Beverages,197.0084,OUT027,1985,Standard,Rural,Superstore C
+252,FDH33,,Reduced,0,Snack Foods,44.1428,OUT027,1985,Standard,Rural,Superstore C
+253,FDO21,11.6,Standard,0.009754896,Snack Foods,223.0404,OUT013,1987,Spacious,Rural,Superstore A
+254,NCY18,7.285,Reduced,0.031151633,HomeGoods,173.2054,OUT046,1997,Compact,Urban,Superstore A
+255,FDQ22,,Reduced,0.029595637,Snack Foods,40.9822,OUT027,1985,Standard,Rural,Superstore C
+256,FDU12,15.5,Standard,0.075904695,Baking Goods,263.9568,OUT045,2002,,Suburban,Superstore A
+257,DRG01,,Reduced,0.044660955,Beverages,74.767,OUT027,1985,Standard,Rural,Superstore C
+258,DRJ39,,Reduced,0.036150153,Edibles,219.5482,OUT027,1985,Standard,Rural,Superstore C
+259,FDX46,12.3,Standard,0.058207114,Snack Foods,59.1562,OUT049,1999,Standard,Urban,Superstore A
+260,DRF23,4.61,Reduced,0.122901056,Hard Drinks,174.4396,OUT045,2002,,Suburban,Superstore A
+261,FDK14,6.98,Reduced,0.041071581,Canned,82.5934,OUT013,1987,Spacious,Rural,Superstore A
+262,DRI13,15.35,Reduced,0.020326962,Beverages,216.7508,OUT046,1997,Compact,Urban,Superstore A
+263,FDX23,6.445,Reduced,0.029686148,Baking Goods,96.4436,OUT035,2004,Compact,Suburban,Superstore A
+264,FDD17,7.5,Reduced,0.032626952,Frozen Foods,235.9906,OUT046,1997,Compact,Urban,Superstore A
+265,DRK23,8.395,Reduced,0.07191675,Hard Drinks,254.804,OUT013,1987,Spacious,Rural,Superstore A
+266,FDU34,18.25,Reduced,0.07518071,Snack Foods,126.2046,OUT035,2004,Compact,Suburban,Superstore A
+267,NCN53,5.175,Reduced,0.050808821,Health and Hygiene,33.6874,OUT010,1998,,Rural,MiniMart
+268,FDA49,19.7,Reduced,0.108665723,Canned,86.4198,OUT010,1998,,Rural,MiniMart
+269,DRJ23,18.35,Reduced,0.041904578,Hard Drinks,188.1872,OUT017,2007,,Suburban,Superstore A
+270,FDE41,9.195,Standard,0.064014173,Frozen Foods,83.3566,OUT046,1997,Compact,Urban,Superstore A
+271,FDO39,6.985,Standard,0.137366883,Proteins,184.9608,OUT046,1997,Compact,Urban,Superstore A
+272,FDT36,12.3,Reduced,0.111727876,Baking Goods,33.9874,OUT018,2009,Standard,Rural,Superstore B
+273,FDH16,10.5,Reduced,0.052637056,Frozen Foods,88.583,OUT049,1999,Standard,Urban,Superstore A
+274,DRL60,8.52,Reduced,0.045291822,Beverages,153.5682,OUT010,1998,,Rural,MiniMart
+275,FDR43,18.2,Reduced,0.161458973,Produce,37.819,OUT035,2004,Compact,Suburban,Superstore A
+276,FDO32,,Reduced,0.119959873,Produce,45.506,OUT027,1985,Standard,Rural,Superstore C
+277,FDZ32,,Standard,0.066765523,Produce,107.1964,OUT019,1985,Compact,Urban,MiniMart
+278,FDS25,6.885,Standard,0.14057889,Canned,112.1228,OUT018,2009,Standard,Rural,Superstore B
+279,FDK41,14.3,Reduced,0.127435585,Frozen Foods,86.8224,OUT013,1987,Spacious,Rural,Superstore A
+280,FDK14,6.98,Reduced,0.041098016,Canned,81.6934,OUT035,2004,Compact,Suburban,Superstore A
+281,FDO22,13.5,Standard,0.017895691,Snack Foods,79.496,OUT045,2002,,Suburban,Superstore A
+282,FDE26,9.3,Reduced,0.089005769,Canned,143.9786,OUT046,1997,Compact,Urban,Superstore A
+283,FDQ39,14.8,Reduced,0.081026811,Proteins,190.0846,OUT035,2004,Compact,Suburban,Superstore A
+284,FDF35,15,Reduced,0.154301621,Starchy Foods,105.9938,OUT045,2002,,Suburban,Superstore A
+285,FDR28,13.85,Standard,0.026042966,Frozen Foods,161.221,OUT017,2007,,Suburban,Superstore A
+286,FDX38,10.5,Standard,0.080688663,Edibles,46.7376,OUT010,1998,,Rural,MiniMart
+287,FDR33,7.31,Reduced,0.026940466,Snack Foods,108.457,OUT017,2007,,Suburban,Superstore A
+288,FDK03,12.6,Standard,0.074070351,Edibles,254.2356,OUT045,2002,,Suburban,Superstore A
+289,FDQ46,7.51,Reduced,0.104023565,Snack Foods,112.4544,OUT045,2002,,Suburban,Superstore A
+290,FDP20,19.85,Reduced,0.045761855,Produce,125.602,OUT045,2002,,Suburban,Superstore A
+291,FDA10,20.35,Reduced,0.142393712,Snack Foods,122.7072,OUT018,2009,Standard,Rural,Superstore B
+292,FDI22,12.6,Reduced,0.161039887,Snack Foods,210.2612,OUT010,1998,,Rural,MiniMart
+293,FDZ48,,Reduced,0.132995494,Baking Goods,113.5544,OUT019,1985,Compact,Urban,MiniMart
+294,DRN37,9.6,Reduced,0.096689673,Beverages,168.0158,OUT018,2009,Standard,Rural,Superstore B
+295,NCR42,9.105,Reduced,0.038699553,HomeGoods,33.79,OUT017,2007,,Suburban,Superstore A
+296,FDJ22,18.75,Reduced,0.052800258,Snack Foods,193.2504,OUT035,2004,Compact,Suburban,Superstore A
+297,FDQ32,17.85,Standard,0.046680961,Produce,121.9388,OUT049,1999,Standard,Urban,Superstore A
+298,FDV16,7.75,Standard,0.083399788,Frozen Foods,34.5558,OUT017,2007,,Suburban,Superstore A
+299,FDO45,,Standard,0.037768989,Snack Foods,88.5856,OUT027,1985,Standard,Rural,Superstore C
+300,FDK25,,Standard,0.156072361,Breakfast,169.3474,OUT027,1985,Standard,Rural,Superstore C
+301,FDT40,,Reduced,0.167725251,Frozen Foods,128.3678,OUT019,1985,Compact,Urban,MiniMart
+302,FDK55,18.5,Reduced,0.025756826,Proteins,87.2172,OUT035,2004,Compact,Suburban,Superstore A
+303,NCG54,12.1,Reduced,0.079968115,HomeGoods,170.8106,OUT045,2002,,Suburban,Superstore A
+304,DRB01,7.39,Reduced,0.082367244,Beverages,187.753,OUT049,1999,Standard,Urban,Superstore A
+305,DRM47,9.3,Reduced,0.043874493,Hard Drinks,191.0846,OUT045,2002,,Suburban,Superstore A
+306,FDL57,15.1,Standard,0.067064128,Snack Foods,257.9304,OUT035,2004,Compact,Suburban,Superstore A
+307,FDA28,16.1,Standard,0.047996608,Frozen Foods,127.0362,OUT018,2009,Standard,Rural,Superstore B
+308,NCJ43,6.635,Reduced,0.045308629,HomeGoods,173.1396,OUT010,1998,,Rural,MiniMart
+309,FDA19,7.52,Reduced,0.055127499,Produce,128.2994,OUT046,1997,Compact,Urban,Superstore A
+310,FDF21,10.3,Standard,0,Produce,191.153,OUT035,2004,Compact,Suburban,Superstore A
+311,NCN07,18.5,Reduced,0.033944698,Others,129.9284,OUT046,1997,Compact,Urban,Superstore A
+312,FDD38,16.75,Standard,0.013711274,Canned,100.2674,OUT010,1998,,Rural,MiniMart
+313,FDY33,14.5,Standard,0.097750937,Snack Foods,159.7262,OUT017,2007,,Suburban,Superstore A
+314,FDB52,17.75,Reduced,0.030559583,Edibles,257.4672,OUT018,2009,Standard,Rural,Superstore B
+315,FDN12,15.6,Reduced,0.081103929,Baking Goods,112.3544,OUT046,1997,Compact,Urban,Superstore A
+316,FDC47,15,Reduced,0.119131749,Snack Foods,226.9694,OUT045,2002,,Suburban,Superstore A
+317,FDY11,6.71,Standard,0.029680868,Baking Goods,65.0142,OUT018,2009,Standard,Rural,Superstore B
+318,FDS16,15.15,Standard,0.066164431,Frozen Foods,147.376,OUT035,2004,Compact,Suburban,Superstore A
+319,FDZ23,17.75,Standard,0.067490036,Baking Goods,185.224,OUT035,2004,Compact,Suburban,Superstore A
+320,FDW24,6.8,Reduced,0.037573095,Baking Goods,50.2034,OUT045,2002,,Suburban,Superstore A
+321,DRN47,12.1,Reduced,0,Hard Drinks,179.866,OUT045,2002,,Suburban,Superstore A
+322,FDU21,11.8,Standard,0.076876046,Snack Foods,33.1558,OUT045,2002,,Suburban,Superstore A
+323,NCI31,20,Reduced,0.08131178,Others,37.819,OUT035,2004,Compact,Suburban,Superstore A
+324,FDG17,,Standard,0.035666655,Frozen Foods,246.2486,OUT027,1985,Standard,Rural,Superstore C
+325,FDC16,11.5,Standard,0.020601791,Edibles,86.054,OUT049,1999,Standard,Urban,Superstore A
+326,DRL23,18.35,Reduced,0.015328106,Hard Drinks,107.5938,OUT049,1999,Standard,Urban,Superstore A
+327,FDJ44,12.3,Standard,0.106307146,Produce,174.9396,OUT035,2004,Compact,Suburban,Superstore A
+328,FDB59,18.25,Reduced,0.015341139,Snack Foods,200.0084,OUT018,2009,Standard,Rural,Superstore B
+329,NCW53,18.35,Reduced,0.0304697,Health and Hygiene,191.3162,OUT013,1987,Spacious,Rural,Superstore A
+330,FDU02,13.35,Reduced,0.1027194,Edibles,228.8352,OUT045,2002,,Suburban,Superstore A
+331,FDT11,,Standard,0.02923013,Breads,189.4556,OUT027,1985,Standard,Rural,Superstore C
+332,NCZ42,10.5,Reduced,0.011278535,HomeGoods,237.0248,OUT013,1987,Spacious,Rural,Superstore A
+333,FDB58,10.5,Standard,0.013572808,Snack Foods,143.2154,OUT017,2007,,Suburban,Superstore A
+334,FDU34,18.25,Reduced,0.075501241,Snack Foods,123.1046,OUT018,2009,Standard,Rural,Superstore B
+335,FDB23,,Standard,0.005561538,Starchy Foods,224.0062,OUT027,1985,Standard,Rural,Superstore C
+336,FDR37,16.5,Standard,0.066383907,Breakfast,180.4292,OUT045,2002,,Suburban,Superstore A
+337,NCZ18,7.825,Reduced,0,HomeGoods,253.4698,OUT017,2007,,Suburban,Superstore A
+338,NCQ29,12,Reduced,0,Health and Hygiene,262.3278,OUT017,2007,,Suburban,Superstore A
+339,FDA32,14,Reduced,0.030216783,Produce,216.6192,OUT018,2009,Standard,Rural,Superstore B
+340,FDV46,18.2,Reduced,0.012597384,Snack Foods,141.218,OUT013,1987,Spacious,Rural,Superstore A
+341,NCW41,18,Reduced,0,Health and Hygiene,158.0604,OUT049,1999,Standard,Urban,Superstore A
+342,FDR31,6.46,Standard,0.049162885,Produce,146.9102,OUT046,1997,Compact,Urban,Superstore A
+343,FDV55,17.75,Reduced,0.05507343,Produce,145.1444,OUT046,1997,Compact,Urban,Superstore A
+344,FDB03,17.75,Standard,0.156831826,Edibles,241.0538,OUT046,1997,Compact,Urban,Superstore A
+345,FDQ13,11.1,Reduced,0.010663189,Canned,82.3908,OUT045,2002,,Suburban,Superstore A
+346,FDH33,12.85,Reduced,0.12241394,Snack Foods,42.9428,OUT017,2007,,Suburban,Superstore A
+347,FDN57,18.25,Reduced,0.054234197,Snack Foods,142.0154,OUT046,1997,Compact,Urban,Superstore A
+348,FDX52,11.5,Standard,0.04224015,Frozen Foods,194.982,OUT017,2007,,Suburban,Superstore A
+349,NCO55,12.8,Reduced,0.152377658,Others,108.1938,OUT010,1998,,Rural,MiniMart
+350,FDX09,9,Reduced,0.065194971,Snack Foods,177.737,OUT013,1987,Spacious,Rural,Superstore A
+351,DRD15,10.6,Reduced,0.056748659,Edibles,233.6642,OUT013,1987,Spacious,Rural,Superstore A
+352,FDA25,16.5,Standard,0.068403271,Canned,101.999,OUT018,2009,Standard,Rural,Superstore B
+353,NCA42,6.965,Reduced,0,HomeGoods,159.4604,OUT013,1987,Spacious,Rural,Superstore A
+354,NCW54,7.5,Reduced,0.09660879,HomeGoods,56.9588,OUT045,2002,,Suburban,Superstore A
+355,FDY02,,Standard,0.153456703,Edibles,264.091,OUT019,1985,Compact,Urban,MiniMart
+356,FDZ52,19.2,Reduced,0.100482186,Frozen Foods,111.8886,OUT018,2009,Standard,Rural,Superstore B
+357,DRZ24,7.535,Reduced,0.081787519,Beverages,120.844,OUT046,1997,Compact,Urban,Superstore A
+358,FDG29,17.6,Reduced,0.056281276,Frozen Foods,40.3454,OUT035,2004,Compact,Suburban,Superstore A
+359,NCW06,16.2,Reduced,0,HomeGoods,190.8162,OUT035,2004,Compact,Suburban,Superstore A
+360,FDC47,,Reduced,0.208162156,Snack Foods,228.1694,OUT019,1985,Compact,Urban,MiniMart
+361,FDO13,7.865,Reduced,0.061183503,Breakfast,164.5526,OUT045,2002,,Suburban,Superstore A
+362,NCJ29,10.6,Reduced,0.035247642,Health and Hygiene,84.7224,OUT049,1999,Standard,Urban,Superstore A
+363,FDL36,15.1,Reduced,0.127334766,Baking Goods,88.283,OUT010,1998,,Rural,MiniMart
+364,DRJ24,11.8,Reduced,0.113307794,Beverages,187.0924,OUT035,2004,Compact,Suburban,Superstore A
+365,FDW27,5.86,Standard,0.150853308,Proteins,156.0314,OUT046,1997,Compact,Urban,Superstore A
+366,NCO54,19.5,Reduced,0.014274292,HomeGoods,55.6614,OUT046,1997,Compact,Urban,Superstore A
+367,NCU41,18.85,Reduced,0.0520115,Health and Hygiene,190.3846,OUT013,1987,Spacious,Rural,Superstore A
+368,DRI25,19.6,Reduced,0.03395415,Beverages,56.4614,OUT049,1999,Standard,Urban,Superstore A
+369,FDC14,14.5,Standard,0.06904249,Canned,41.4454,OUT010,1998,,Rural,MiniMart
+370,FDB49,,Standard,0.052791124,Baking Goods,98.5384,OUT019,1985,Compact,Urban,MiniMart
+371,NCV06,11.3,Reduced,0.066952965,HomeGoods,192.0478,OUT018,2009,Standard,Rural,Superstore B
+372,DRI03,6.03,Reduced,0.022832115,Edibles,176.7028,OUT017,2007,,Suburban,Superstore A
+373,FDR09,18.25,Reduced,0.077709902,Snack Foods,259.6962,OUT035,2004,Compact,Suburban,Superstore A
+374,FDR21,19.7,Reduced,0.067039526,Snack Foods,178.337,OUT049,1999,Standard,Urban,Superstore A
+375,FDD56,15.2,Standard,0.103758647,Produce,177.0054,OUT035,2004,Compact,Suburban,Superstore A
+376,FDP46,,Reduced,0.13064231,Snack Foods,88.383,OUT019,1985,Compact,Urban,MiniMart
+377,FDN56,5.46,Standard,0.107274301,Produce,145.5786,OUT045,2002,,Suburban,Superstore A
+378,FDI40,11.5,Standard,0.125579201,Frozen Foods,99.7358,OUT035,2004,Compact,Suburban,Superstore A
+379,FDR32,6.78,Standard,0.085981978,Produce,228.4694,OUT045,2002,,Suburban,Superstore A
+380,FDI24,10.3,Reduced,0.078678276,Baking Goods,177.037,OUT013,1987,Spacious,Rural,Superstore A
+381,FDP28,13.65,Standard,0.080968973,Frozen Foods,259.7936,OUT018,2009,Standard,Rural,Superstore B
+382,FDC02,21.35,Reduced,0.068822477,Canned,258.3278,OUT046,1997,Compact,Urban,Superstore A
+383,FDT23,7.72,Standard,0.074669288,Breads,76.3986,OUT013,1987,Spacious,Rural,Superstore A
+384,NCV29,11.8,Reduced,0.022843501,Health and Hygiene,177.8686,OUT046,1997,Compact,Urban,Superstore A
+385,FDS47,16.75,Reduced,0.128861359,Breads,86.2856,OUT035,2004,Compact,Suburban,Superstore A
+386,FDV20,20.2,Standard,0.100095288,Produce,125.2678,OUT010,1998,,Rural,MiniMart
+387,FDW47,15,Reduced,0.046447328,Breads,121.5414,OUT049,1999,Standard,Urban,Superstore A
+388,FDA07,,Standard,0.030794774,Produce,122.9072,OUT027,1985,Standard,Rural,Superstore C
+389,FDN09,,Reduced,0.034705807,Snack Foods,241.6828,OUT027,1985,Standard,Rural,Superstore C
+390,FDB50,13,Reduced,0.154487495,Canned,77.2986,OUT017,2007,,Suburban,Superstore A
+391,DRM59,5.88,Reduced,0.003599378,Hard Drinks,152.2998,OUT045,2002,,Suburban,Superstore A
+392,FDV32,7.785,Reduced,0.089210159,Produce,64.251,OUT017,2007,,Suburban,Superstore A
+393,FDU23,,Reduced,0.021618297,Breads,167.1184,OUT027,1985,Standard,Rural,Superstore C
+394,FDB05,,Reduced,0.145669556,Frozen Foods,247.2776,OUT019,1985,Compact,Urban,MiniMart
+395,FDN49,17.25,Standard,0.125419157,Breakfast,40.048,OUT049,1999,Standard,Urban,Superstore A
+396,FDY48,,Reduced,0.041556697,Baking Goods,104.4332,OUT019,1985,Compact,Urban,MiniMart
+397,FDB40,17.5,Standard,0.007570599,Edibles,144.6102,OUT018,2009,Standard,Rural,Superstore B
+398,DRG15,6.13,Reduced,0.077169953,Edibles,63.0536,OUT017,2007,,Suburban,Superstore A
+399,NCA05,20.75,Reduced,0.02512588,Health and Hygiene,150.4734,OUT035,2004,Compact,Suburban,Superstore A
+400,FDJ09,15,Reduced,0,Snack Foods,43.4744,OUT046,1997,Compact,Urban,Superstore A
+401,DRF49,7.27,Reduced,0.07136748,Beverages,111.8518,OUT018,2009,Standard,Rural,Superstore B
+402,FDL14,8.115,Standard,0.032158866,Canned,154.8972,OUT046,1997,Compact,Urban,Superstore A
+403,FDP21,,Standard,0.045068892,Snack Foods,190.8872,OUT019,1985,Compact,Urban,MiniMart
+404,NCV54,11.1,Reduced,0.033176087,HomeGoods,120.1124,OUT045,2002,,Suburban,Superstore A
+405,NCO05,,Reduced,0.046333982,Health and Hygiene,97.2384,OUT027,1985,Standard,Rural,Superstore C
+406,FDQ51,16,Standard,0,Proteins,48.1718,OUT017,2007,,Suburban,Superstore A
+407,FDX36,9.695,Standard,0.128283243,Baking Goods,226.1404,OUT046,1997,Compact,Urban,Superstore A
+408,FDA43,10.895,Reduced,0.108253944,Produce,194.8794,OUT010,1998,,Rural,MiniMart
+409,FDM21,20.2,Reduced,0.064351908,Snack Foods,259.4646,OUT035,2004,Compact,Suburban,Superstore A
+410,FDH45,15.1,Standard,0.105881129,Produce,42.0796,OUT045,2002,,Suburban,Superstore A
+411,FDK15,10.8,Reduced,0.098814721,Proteins,100.5042,OUT018,2009,Standard,Rural,Superstore B
+412,DRC49,,Reduced,0.065119701,Beverages,145.7128,OUT027,1985,Standard,Rural,Superstore C
+413,FDV09,12.1,Reduced,0.020564685,Snack Foods,148.2734,OUT035,2004,Compact,Suburban,Superstore A
+414,NCA29,10.5,Reduced,0.027253711,HomeGoods,170.9106,OUT013,1987,Spacious,Rural,Superstore A
+415,FDO22,13.5,Standard,0,Snack Foods,78.396,OUT035,2004,Compact,Suburban,Superstore A
+416,FDA19,7.52,Reduced,0.055081623,Produce,128.8994,OUT013,1987,Spacious,Rural,Superstore A
+417,DRF01,5.655,Reduced,0.175793413,Beverages,146.9102,OUT018,2009,Standard,Rural,Superstore B
+418,NCH29,5.51,Reduced,0,Health and Hygiene,98.9726,OUT018,2009,Standard,Rural,Superstore B
+419,FDK28,5.695,Reduced,0.109784056,Frozen Foods,256.0646,OUT010,1998,,Rural,MiniMart
+420,NCU30,5.11,Reduced,0,HomeGoods,164.721,OUT018,2009,Standard,Rural,Superstore B
+421,NCZ53,9.6,Reduced,0.040969757,Health and Hygiene,188.7214,OUT010,1998,,Rural,MiniMart
+422,NCS53,14.5,Reduced,0.08996026,Health and Hygiene,159.5604,OUT045,2002,,Suburban,Superstore A
+423,DRF27,8.93,Reduced,0.028411899,Edibles,152.334,OUT035,2004,Compact,Suburban,Superstore A
+424,NCX30,16.7,Reduced,0.026771204,HomeGoods,246.3776,OUT017,2007,,Suburban,Superstore A
+425,FDF29,,Standard,0.019837655,Frozen Foods,128.131,OUT027,1985,Standard,Rural,Superstore C
+426,FDD39,,Reduced,0.122832172,Edibles,217.685,OUT019,1985,Compact,Urban,MiniMart
+427,FDJ04,18,Reduced,0.124959013,Frozen Foods,116.5124,OUT018,2009,Standard,Rural,Superstore B
+428,FDT50,6.75,Standard,0,Edibles,96.7752,OUT049,1999,Standard,Urban,Superstore A
+429,FDJ21,16.7,Standard,0.03874616,Snack Foods,143.8102,OUT017,2007,,Suburban,Superstore A
+430,NCN42,20.25,Reduced,0.014280554,HomeGoods,148.0418,OUT018,2009,Standard,Rural,Superstore B
+431,FDV27,7.97,Standard,0.04021623,Proteins,90.4514,OUT017,2007,,Suburban,Superstore A
+432,DRC01,5.92,Standard,0.019238942,Beverages,49.8692,OUT045,2002,,Suburban,Superstore A
+433,FDF17,5.19,Reduced,0.042707323,Frozen Foods,197.811,OUT045,2002,,Suburban,Superstore A
+434,NCX18,14.15,Reduced,0,HomeGoods,196.311,OUT046,1997,Compact,Urban,Superstore A
+435,NCO53,16.2,Reduced,0.175898114,Health and Hygiene,183.7608,OUT018,2009,Standard,Rural,Superstore B
+436,FDI05,8.35,Standard,0.127587344,Frozen Foods,76.5354,OUT017,2007,,Suburban,Superstore A
+437,FDH02,,Standard,0,Canned,91.8488,OUT027,1985,Standard,Rural,Superstore C
+438,FDC26,10.195,Reduced,0.126579586,Canned,112.2886,OUT049,1999,Standard,Urban,Superstore A
+439,FDL16,12.85,Reduced,0.169405699,Frozen Foods,46.106,OUT017,2007,,Suburban,Superstore A
+440,FDY13,,Reduced,0.052749199,Canned,74.967,OUT019,1985,Compact,Urban,MiniMart
+441,FDF11,10.195,Standard,0.017658634,Starchy Foods,240.1538,OUT049,1999,Standard,Urban,Superstore A
+442,FDQ25,8.63,Standard,0.028391879,Canned,173.9422,OUT018,2009,Standard,Rural,Superstore B
+443,FDV43,,Reduced,0.076483451,Produce,43.4086,OUT027,1985,Standard,Rural,Superstore C
+444,FDI52,18.7,Reduced,0.104591027,Frozen Foods,121.4072,OUT013,1987,Spacious,Rural,Superstore A
+445,NCD18,16,Reduced,0.072655379,HomeGoods,229.8668,OUT035,2004,Compact,Suburban,Superstore A
+446,FDB35,12.3,Standard,0.064882207,Starchy Foods,93.8804,OUT018,2009,Standard,Rural,Superstore B
+447,FDY57,20.2,Standard,0.121231308,Snack Foods,97.5752,OUT035,2004,Compact,Suburban,Superstore A
+448,FDS04,10.195,Standard,0.146540889,Frozen Foods,141.7838,OUT013,1987,Spacious,Rural,Superstore A
+449,FDU12,,Standard,0.075384242,Baking Goods,262.7568,OUT027,1985,Standard,Rural,Superstore C
+450,FDF26,6.825,Standard,0.046824729,Canned,155.1998,OUT018,2009,Standard,Rural,Superstore B
+451,FDC41,15.6,Reduced,0.117574554,Frozen Foods,75.667,OUT017,2007,,Suburban,Superstore A
+452,FDY52,6.365,Reduced,0,Frozen Foods,59.7536,OUT017,2007,,Suburban,Superstore A
+453,FDD41,6.765,Standard,0.087437069,Frozen Foods,106.1306,OUT045,2002,,Suburban,Superstore A
+454,FDK40,,Reduced,0.021743592,Frozen Foods,263.191,OUT027,1985,Standard,Rural,Superstore C
+455,FDO45,13.15,Standard,0.038011783,Snack Foods,89.6856,OUT049,1999,Standard,Urban,Superstore A
+456,FDZ20,16.1,Reduced,0.034376537,Produce,256.1356,OUT045,2002,,Suburban,Superstore A
+457,FDB11,16,Reduced,0.060971431,Starchy Foods,226.2404,OUT045,2002,,Suburban,Superstore A
+458,FDQ47,7.155,Standard,0.168871496,Breads,34.3874,OUT018,2009,Standard,Rural,Superstore B
+459,FDB45,20.85,Reduced,0.021312043,Produce,104.9306,OUT013,1987,Spacious,Rural,Superstore A
+460,FDQ07,15.1,Standard,0.087542757,Produce,219.8456,OUT049,1999,Standard,Urban,Superstore A
+461,DRJ11,9.5,Reduced,0,Hard Drinks,188.9872,OUT017,2007,,Suburban,Superstore A
+462,FDH17,16.2,Standard,0.01665334,Frozen Foods,97.3726,OUT046,1997,Compact,Urban,Superstore A
+463,FDO24,11.1,Reduced,0.294948897,Baking Goods,159.0604,OUT010,1998,,Rural,MiniMart
+464,NCM30,19.1,Reduced,0.067295406,HomeGoods,41.9796,OUT046,1997,Compact,Urban,Superstore A
+465,FDE46,,Reduced,0.015693328,Snack Foods,150.7366,OUT027,1985,Standard,Rural,Superstore C
+466,NCG55,16.25,Reduced,0.039207025,HomeGoods,116.1176,OUT049,1999,Standard,Urban,Superstore A
+467,DRD12,6.96,Reduced,0.077350112,Beverages,91.4146,OUT045,2002,,Suburban,Superstore A
+468,FDP23,6.71,Reduced,0.03565903,Breads,218.3166,OUT045,2002,,Suburban,Superstore A
+469,DRM37,15.35,Reduced,0.096943078,Beverages,196.5768,OUT017,2007,,Suburban,Superstore A
+470,FDG44,6.13,Reduced,0.102171627,Produce,53.8298,OUT035,2004,Compact,Suburban,Superstore A
+471,DRG13,17.25,Reduced,0.037337632,Beverages,163.7526,OUT018,2009,Standard,Rural,Superstore B
+472,FDI32,17.7,Reduced,0,Produce,115.0834,OUT045,2002,,Suburban,Superstore A
+473,NCP53,14.75,Reduced,0.033076388,Health and Hygiene,237.2906,OUT017,2007,,Suburban,Superstore A
+474,FDA46,13.6,Reduced,0.117613212,Snack Foods,194.2136,OUT035,2004,Compact,Suburban,Superstore A
+475,FDY56,16.35,Standard,0.062359467,Produce,224.0062,OUT013,1987,Spacious,Rural,Superstore A
+476,FDS60,20.85,Reduced,0.032580705,Baking Goods,180.066,OUT018,2009,Standard,Rural,Superstore B
+477,NCQ53,17.6,Reduced,0.018943666,Health and Hygiene,237.359,OUT045,2002,,Suburban,Superstore A
+478,FDU12,,Standard,0.132630345,Baking Goods,263.8568,OUT019,1985,Compact,Urban,MiniMart
+479,FDT03,21.25,Reduced,0.01001904,Proteins,184.6608,OUT045,2002,,Suburban,Superstore A
+480,NCH54,13.5,Reduced,0.072965144,HomeGoods,160.692,OUT018,2009,Standard,Rural,Superstore B
+481,FDD14,20.7,Reduced,0.170152831,Canned,182.6266,OUT045,2002,,Suburban,Superstore A
+482,FDR36,6.715,Standard,0.121563385,Baking Goods,43.7454,OUT035,2004,Compact,Suburban,Superstore A
+483,FDJ58,,Standard,0.184359831,Snack Foods,172.6764,OUT019,1985,Compact,Urban,MiniMart
+484,FDW55,12.6,Standard,0,Produce,248.8092,OUT035,2004,Compact,Suburban,Superstore A
+485,FDF10,15.5,Standard,0.156797787,Snack Foods,148.6418,OUT013,1987,Spacious,Rural,Superstore A
+486,NCK07,10.65,Reduced,0.04896208,Others,165.8526,OUT017,2007,,Suburban,Superstore A
+487,FDG47,12.8,Reduced,0.070012633,Starchy Foods,262.8252,OUT017,2007,,Suburban,Superstore A
+488,NCM53,18.75,Reduced,0.052252908,Health and Hygiene,105.728,OUT018,2009,Standard,Rural,Superstore B
+489,NCV53,8.27,Reduced,0.031490111,Health and Hygiene,239.088,OUT010,1998,,Rural,MiniMart
+490,FDR55,12.15,Standard,0.132621594,Produce,190.1872,OUT018,2009,Standard,Rural,Superstore B
+491,FDS47,,Reduced,0,Breads,87.6856,OUT027,1985,Standard,Rural,Superstore C
+492,FDF45,18.2,Standard,0.012229464,Produce,56.8904,OUT045,2002,,Suburban,Superstore A
+493,NCH30,17.1,Reduced,0.06725846,HomeGoods,115.186,OUT049,1999,Standard,Urban,Superstore A
+494,FDS33,6.67,Standard,0.12367891,Snack Foods,88.9514,OUT045,2002,,Suburban,Superstore A
+495,FDZ10,,Reduced,0.077849833,Snack Foods,127.202,OUT019,1985,Compact,Urban,MiniMart
+496,FDL09,19.6,Standard,0.127929521,Snack Foods,167.4816,OUT013,1987,Spacious,Rural,Superstore A
+497,FDI26,5.94,Reduced,0.03495749,Canned,177.1344,OUT045,2002,,Suburban,Superstore A
+498,FDI50,8.42,Standard,0.030816999,Canned,230.8352,OUT013,1987,Spacious,Rural,Superstore A
+499,FDU57,8.27,Standard,0.089735804,Snack Foods,148.7708,OUT045,2002,,Suburban,Superstore A
+500,FDR22,19.35,Standard,0.018562604,Snack Foods,110.5544,OUT046,1997,Compact,Urban,Superstore A
+501,FDW15,15.35,Standard,0.055067732,Proteins,146.5734,OUT013,1987,Spacious,Rural,Superstore A
+502,NCQ38,16.35,Reduced,0.013442036,Others,104.528,OUT017,2007,,Suburban,Superstore A
+503,NCO07,9.06,Reduced,0.009816092,Others,211.856,OUT018,2009,Standard,Rural,Superstore B
+504,NCD18,16,Reduced,0,HomeGoods,228.8668,OUT046,1997,Compact,Urban,Superstore A
+505,FDA34,11.5,Reduced,0.01484819,Starchy Foods,172.108,OUT013,1987,Spacious,Rural,Superstore A
+506,FDU04,7.93,Reduced,0.005547386,Frozen Foods,121.5414,OUT035,2004,Compact,Suburban,Superstore A
+507,FDF28,,Standard,0.037681359,Frozen Foods,125.1046,OUT027,1985,Standard,Rural,Superstore C
+508,FDN38,6.615,Standard,0.092158377,Canned,251.1408,OUT045,2002,,Suburban,Superstore A
+509,FDZ36,6.035,Standard,0.066155883,Baking Goods,184.424,OUT017,2007,,Suburban,Superstore A
+510,FDY10,,Reduced,0.048830264,Snack Foods,113.1176,OUT027,1985,Standard,Rural,Superstore C
+511,NCE42,21.1,Reduced,0,HomeGoods,233.2958,OUT018,2009,Standard,Rural,Superstore B
+512,FDT58,9,Reduced,0.086440911,Snack Foods,167.0816,OUT017,2007,,Suburban,Superstore A
+513,FDC34,,Standard,0.302478871,Snack Foods,155.4972,OUT019,1985,Compact,Urban,MiniMart
+514,FDY08,9.395,Standard,0.286344848,Produce,139.1838,OUT010,1998,,Rural,MiniMart
+515,FDO31,,Standard,0.028842332,Produce,81.496,OUT027,1985,Standard,Rural,Superstore C
+516,FDS26,20.35,Reduced,0.149753132,Edibles,259.7594,OUT010,1998,,Rural,MiniMart
+517,FDA03,18.5,Standard,0.045425939,Edibles,144.9102,OUT013,1987,Spacious,Rural,Superstore A
+518,FDC48,9.195,Reduced,0.015859294,Baking Goods,84.5592,OUT046,1997,Compact,Urban,Superstore A
+519,FDC56,7.72,Reduced,0.121497742,Produce,119.744,OUT035,2004,Compact,Suburban,Superstore A
+520,NCA05,20.75,Reduced,0.025130632,Health and Hygiene,150.0734,OUT046,1997,Compact,Urban,Superstore A
+521,FDU24,,Standard,0.245407386,Baking Goods,92.812,OUT019,1985,Compact,Urban,MiniMart
+522,FDI15,13.8,Reduced,0.141352562,Edibles,264.1884,OUT046,1997,Compact,Urban,Superstore A
+523,FDH56,,Standard,0.11173569,Produce,115.9492,OUT019,1985,Compact,Urban,MiniMart
+524,FDY46,18.6,Reduced,0.048160824,Snack Foods,188.9898,OUT017,2007,,Suburban,Superstore A
+525,FDV32,7.785,Reduced,0.088888291,Produce,64.751,OUT045,2002,,Suburban,Superstore A
+526,FDQ55,,Standard,0.012974937,Produce,115.9834,OUT027,1985,Standard,Rural,Superstore C
+527,FDF22,6.865,Reduced,0.057152139,Snack Foods,211.8218,OUT017,2007,,Suburban,Superstore A
+528,NCQ43,17.75,Reduced,0.11147467,Others,108.0912,OUT049,1999,Standard,Urban,Superstore A
+529,NCP17,19.35,Reduced,0,Health and Hygiene,65.3168,OUT010,1998,,Rural,MiniMart
+530,NCX30,16.7,Reduced,0.026620627,HomeGoods,249.2776,OUT046,1997,Compact,Urban,Superstore A
+531,FDR19,13.5,Standard,0.159720671,Produce,147.6102,OUT046,1997,Compact,Urban,Superstore A
+532,FDY35,17.6,Standard,0.016092971,Breads,45.8402,OUT018,2009,Standard,Rural,Superstore B
+533,FDX07,19.2,Standard,0.022954444,Produce,184.495,OUT049,1999,Standard,Urban,Superstore A
+534,FDJ10,5.095,Standard,0.129479176,Snack Foods,139.7838,OUT035,2004,Compact,Suburban,Superstore A
+535,FDW21,5.34,Standard,0.005958918,Snack Foods,101.6358,OUT013,1987,Spacious,Rural,Superstore A
+536,NCX30,,Reduced,0.026491715,HomeGoods,247.2776,OUT027,1985,Standard,Rural,Superstore C
+537,NCI54,15.2,Reduced,0.033599041,HomeGoods,107.7912,OUT046,1997,Compact,Urban,Superstore A
+538,FDK09,,Reduced,0.091318935,Snack Foods,230.7352,OUT027,1985,Standard,Rural,Superstore C
+539,FDC33,8.96,Standard,0.068880971,Produce,195.3768,OUT013,1987,Spacious,Rural,Superstore A
+540,FDS50,17,Reduced,0.055746931,Edibles,220.0114,OUT017,2007,,Suburban,Superstore A
+541,NCB18,19.6,Reduced,0.041291169,HomeGoods,86.9514,OUT046,1997,Compact,Urban,Superstore A
+542,FDF52,9.3,Reduced,0.11178154,Frozen Foods,182.3292,OUT010,1998,,Rural,MiniMart
+543,FDJ44,,Standard,0.105812357,Produce,175.0396,OUT027,1985,Standard,Rural,Superstore C
+544,FDG10,,Standard,0.019153299,Snack Foods,57.6588,OUT019,1985,Compact,Urban,MiniMart
+545,FDP49,9,Standard,0.069031467,Breakfast,55.0614,OUT013,1987,Spacious,Rural,Superstore A
+546,FDR02,16.7,Reduced,0.022099982,Edibles,110.1886,OUT049,1999,Standard,Urban,Superstore A
+547,FDP27,,Reduced,0.20914265,Proteins,190.953,OUT019,1985,Compact,Urban,MiniMart
+548,FDA04,11.3,Standard,0.067001825,Frozen Foods,259.1962,OUT018,2009,Standard,Rural,Superstore B
+549,FDV38,19.25,Reduced,0.101980245,Edibles,54.3956,OUT045,2002,,Suburban,Superstore A
+550,FDZ19,,Reduced,0.093002339,Produce,177.7712,OUT027,1985,Standard,Rural,Superstore C
+551,NCC18,19.1,Reduced,0.178272728,HomeGoods,172.4422,OUT017,2007,,Suburban,Superstore A
+552,NCH42,6.86,Reduced,0.036686158,HomeGoods,229.601,OUT018,2009,Standard,Rural,Superstore B
+553,NCQ53,17.6,Reduced,0.018889593,Health and Hygiene,236.259,OUT013,1987,Spacious,Rural,Superstore A
+554,NCU53,5.485,Reduced,0.042838514,Health and Hygiene,163.7842,OUT045,2002,,Suburban,Superstore A
+555,NCW41,18,Reduced,0.015450376,Health and Hygiene,158.9604,OUT046,1997,Compact,Urban,Superstore A
+556,FDX50,,Reduced,0.074265816,Edibles,109.5228,OUT027,1985,Standard,Rural,Superstore C
+557,FDV25,5.905,Reduced,0.04572322,Canned,222.1456,OUT049,1999,Standard,Urban,Superstore A
+558,FDA22,,Reduced,0,Starchy Foods,167.5158,OUT027,1985,Standard,Rural,Superstore C
+559,FDZ12,9.17,Reduced,0.103398309,Baking Goods,143.947,OUT018,2009,Standard,Rural,Superstore B
+560,FDJ03,12.35,Standard,0.072689818,Edibles,48.7692,OUT018,2009,Standard,Rural,Superstore B
+561,FDX60,14.35,Reduced,0.081050006,Baking Goods,79.196,OUT017,2007,,Suburban,Superstore A
+562,FDL24,10.3,Standard,0.024998007,Baking Goods,174.4422,OUT018,2009,Standard,Rural,Superstore B
+563,FDC41,,Reduced,0.116347087,Frozen Foods,76.867,OUT027,1985,Standard,Rural,Superstore C
+564,FDA38,5.44,Reduced,0.025458716,Edibles,241.2538,OUT013,1987,Spacious,Rural,Superstore A
+565,DRF23,4.61,Reduced,0.122629121,Hard Drinks,175.4396,OUT035,2004,Compact,Suburban,Superstore A
+566,FDM34,19,Reduced,0.112893408,Snack Foods,131.0626,OUT010,1998,,Rural,MiniMart
+567,NCI06,11.3,Reduced,0.047912071,HomeGoods,179.866,OUT018,2009,Standard,Rural,Superstore B
+568,FDZ03,13.65,Standard,0,Edibles,186.024,OUT018,2009,Standard,Rural,Superstore B
+569,NCU17,5.32,Reduced,0.093261677,Health and Hygiene,100.9674,OUT018,2009,Standard,Rural,Superstore B
+570,FDO20,12.85,Standard,0.152001201,Produce,252.3382,OUT013,1987,Spacious,Rural,Superstore A
+571,FDO50,16.25,Reduced,0.078168739,Canned,91.3804,OUT046,1997,Compact,Urban,Superstore A
+572,FDW50,13.1,Reduced,0.075885921,Edibles,165.1158,OUT018,2009,Standard,Rural,Superstore B
+573,NCS06,,Reduced,0.031583053,HomeGoods,260.991,OUT027,1985,Standard,Rural,Superstore C
+574,FDQ15,20.35,Standard,0.150947728,Proteins,81.0276,OUT013,1987,Spacious,Rural,Superstore A
+575,FDC48,,Reduced,0.027767577,Baking Goods,82.1592,OUT019,1985,Compact,Urban,MiniMart
+576,FDB20,7.72,Reduced,0.052061483,Produce,76.7986,OUT049,1999,Standard,Urban,Superstore A
+577,FDI50,,Standard,0.030693309,Canned,228.0352,OUT027,1985,Standard,Rural,Superstore C
+578,FDJ44,12.3,Standard,0.106542886,Produce,173.2396,OUT045,2002,,Suburban,Superstore A
+579,FDP60,17.35,Reduced,0,Baking Goods,102.9016,OUT046,1997,Compact,Urban,Superstore A
+580,FDN24,14.1,Reduced,0.11349714,Baking Goods,56.1956,OUT045,2002,,Suburban,Superstore A
+581,FDN27,20.85,Reduced,0.039555016,Proteins,116.8808,OUT035,2004,Compact,Suburban,Superstore A
+582,FDM60,10.8,Standard,0,Baking Goods,40.7138,OUT017,2007,,Suburban,Superstore A
+583,FDU59,5.78,Reduced,0.096306016,Breads,161.9552,OUT013,1987,Spacious,Rural,Superstore A
+584,FDL38,13.8,Standard,0.014762987,Canned,90.7172,OUT045,2002,,Suburban,Superstore A
+585,FDX52,11.5,Standard,0.042173667,Frozen Foods,194.682,OUT018,2009,Standard,Rural,Superstore B
+586,FDS58,9.285,Standard,0,Snack Foods,161.5578,OUT046,1997,Compact,Urban,Superstore A
+587,FDN02,16.5,Reduced,0.073813788,Canned,207.2638,OUT035,2004,Compact,Suburban,Superstore A
+588,FDT33,7.81,Standard,0.03412912,Snack Foods,165.1158,OUT018,2009,Standard,Rural,Superstore B
+589,FDD21,10.3,Standard,0.030569229,Produce,113.1176,OUT046,1997,Compact,Urban,Superstore A
+590,FDX50,20.1,Reduced,0.075049323,Edibles,110.4228,OUT017,2007,,Suburban,Superstore A
+591,NCV05,,Reduced,0.030062224,Health and Hygiene,154.3656,OUT027,1985,Standard,Rural,Superstore C
+592,NCX29,10,Reduced,0.089152528,Health and Hygiene,147.7102,OUT046,1997,Compact,Urban,Superstore A
+593,NCM29,11.5,Reduced,0.017714096,Health and Hygiene,132.9626,OUT018,2009,Standard,Rural,Superstore B
+594,FDA09,13.35,Standard,0.149338159,Snack Foods,178.666,OUT035,2004,Compact,Suburban,Superstore A
+595,FDX12,18.2,Standard,0.043626605,Baking Goods,241.4196,OUT010,1998,,Rural,MiniMart
+596,FDH08,7.51,Reduced,0.017425784,Produce,227.901,OUT035,2004,Compact,Suburban,Superstore A
+597,FDQ31,5.785,Standard,0.054066567,Produce,87.0856,OUT018,2009,Standard,Rural,Superstore B
+598,FDQ01,19.7,Standard,0.161610636,Canned,255.2014,OUT017,2007,,Suburban,Superstore A
+599,FDV51,16.35,Reduced,0.032671446,Proteins,165.4842,OUT018,2009,Standard,Rural,Superstore B
+600,NCP42,8.51,Reduced,0.016135764,HomeGoods,195.6478,OUT049,1999,Standard,Urban,Superstore A
+601,NCF30,17,Reduced,0.211306673,HomeGoods,125.1362,OUT010,1998,,Rural,MiniMart
+602,DRA24,19.35,Standard,0.039990314,Beverages,165.0868,OUT049,1999,Standard,Urban,Superstore A
+603,FDN10,11.5,Reduced,0.0463847,Snack Foods,118.9124,OUT017,2007,,Suburban,Superstore A
+604,NCF55,6.675,Reduced,0.021710275,HomeGoods,34.9874,OUT045,2002,,Suburban,Superstore A
+605,FDU12,15.5,Standard,0.075688032,Baking Goods,262.9568,OUT013,1987,Spacious,Rural,Superstore A
+606,FDI44,16.1,Reduced,0.100149459,Produce,78.4328,OUT013,1987,Spacious,Rural,Superstore A
+607,FDA26,7.855,Standard,0,Edibles,220.1482,OUT018,2009,Standard,Rural,Superstore B
+608,FDL08,10.8,Reduced,0.049709624,Produce,246.8144,OUT035,2004,Compact,Suburban,Superstore A
+609,NCY41,,Reduced,0.075368868,Health and Hygiene,35.2532,OUT027,1985,Standard,Rural,Superstore C
+610,FDY33,14.5,Standard,0,Snack Foods,159.3262,OUT035,2004,Compact,Suburban,Superstore A
+611,NCN14,19.1,Reduced,0.092060694,Others,183.7608,OUT049,1999,Standard,Urban,Superstore A
+612,FDW32,18.35,Standard,0.094296835,Produce,84.3882,OUT046,1997,Compact,Urban,Superstore A
+613,FDL32,15.7,Standard,0.204984538,Produce,111.0544,OUT010,1998,,Rural,MiniMart
+614,DRH36,16.2,Reduced,0.03338006,Beverages,74.0696,OUT046,1997,Compact,Urban,Superstore A
+615,FDY35,17.6,Standard,0.016024651,Breads,44.0402,OUT035,2004,Compact,Suburban,Superstore A
+616,FDW12,8.315,Standard,0.035644325,Baking Goods,147.1444,OUT045,2002,,Suburban,Superstore A
+617,FDI41,18.5,Standard,0.062245149,Frozen Foods,145.8418,OUT035,2004,Compact,Suburban,Superstore A
+618,DRI11,8.26,Reduced,0.034397781,Hard Drinks,115.7834,OUT035,2004,Compact,Suburban,Superstore A
+619,NCL55,12.15,Reduced,0,Others,254.904,OUT046,1997,Compact,Urban,Superstore A
+620,FDW16,17.35,Standard,0.041439718,Frozen Foods,93.7804,OUT013,1987,Spacious,Rural,Superstore A
+621,FDM12,16.7,Standard,0.070312473,Baking Goods,189.6214,OUT017,2007,,Suburban,Superstore A
+622,FDH35,18.25,Reduced,0.060342304,Starchy Foods,165.9526,OUT049,1999,Standard,Urban,Superstore A
+623,FDP08,20.5,Standard,0.112638016,Produce,195.5478,OUT045,2002,,Suburban,Superstore A
+624,FDW51,6.155,Standard,0.095045476,Proteins,213.456,OUT018,2009,Standard,Rural,Superstore B
+625,NCM29,11.5,Reduced,0.017638893,Health and Hygiene,132.7626,OUT035,2004,Compact,Suburban,Superstore A
+626,FDG33,5.365,Standard,0.140123575,Seafood,172.0764,OUT013,1987,Spacious,Rural,Superstore A
+627,FDV51,16.35,Reduced,0.03272295,Proteins,165.7842,OUT017,2007,,Suburban,Superstore A
+628,FDQ39,14.8,Reduced,0,Proteins,189.3846,OUT013,1987,Spacious,Rural,Superstore A
+629,FDS16,15.15,Standard,0.066446521,Frozen Foods,147.976,OUT018,2009,Standard,Rural,Superstore B
+630,FDZ45,14.1,Reduced,0.066979957,Snack Foods,196.7084,OUT049,1999,Standard,Urban,Superstore A
+631,FDW09,13.65,Standard,0.026067434,Snack Foods,78.8302,OUT017,2007,,Suburban,Superstore A
+632,NCX17,21.25,Reduced,0.114066204,Health and Hygiene,233.03,OUT018,2009,Standard,Rural,Superstore B
+633,FDY26,,Standard,0.030362777,Edibles,210.5244,OUT027,1985,Standard,Rural,Superstore C
+634,NCJ30,5.82,Reduced,0.080765853,HomeGoods,169.179,OUT049,1999,Standard,Urban,Superstore A
+635,DRH01,,Reduced,0.097429924,Beverages,172.8738,OUT027,1985,Standard,Rural,Superstore C
+636,DRI11,8.26,Reduced,0.034544435,Hard Drinks,116.0834,OUT018,2009,Standard,Rural,Superstore B
+637,FDT51,11.65,Standard,0.018275816,Proteins,110.8544,OUT010,1998,,Rural,MiniMart
+638,FDV28,,Standard,0.158954903,Frozen Foods,34.9558,OUT027,1985,Standard,Rural,Superstore C
+639,FDV21,11.5,Reduced,0.286357776,Snack Foods,123.9704,OUT010,1998,,Rural,MiniMart
+640,FDA36,5.985,Reduced,0.005661669,Baking Goods,186.5924,OUT013,1987,Spacious,Rural,Superstore A
+641,FDM57,11.65,Standard,0.075834825,Snack Foods,82.9908,OUT035,2004,Compact,Suburban,Superstore A
+642,DRJ11,9.5,Reduced,0.085437778,Hard Drinks,188.4872,OUT018,2009,Standard,Rural,Superstore B
+643,FDG16,15.25,Reduced,0.089998959,Frozen Foods,215.1192,OUT045,2002,,Suburban,Superstore A
+644,NCN30,16.35,Reduced,0.016993204,HomeGoods,95.741,OUT046,1997,Compact,Urban,Superstore A
+645,FDY48,14,Reduced,0.02371512,Baking Goods,103.8332,OUT013,1987,Spacious,Rural,Superstore A
+646,DRG15,6.13,Reduced,0,Edibles,60.1536,OUT013,1987,Spacious,Rural,Superstore A
+647,FDL38,13.8,Standard,0.024660202,Canned,87.4172,OUT010,1998,,Rural,MiniMart
+648,FDE41,9.195,Standard,0.064113698,Frozen Foods,86.5566,OUT049,1999,Standard,Urban,Superstore A
+649,NCR41,17.85,Reduced,0.018023997,Health and Hygiene,95.9094,OUT046,1997,Compact,Urban,Superstore A
+650,NCQ06,13,Reduced,0.041909345,HomeGoods,255.0014,OUT045,2002,,Suburban,Superstore A
+651,FDR37,,Standard,0.065928735,Breakfast,183.0292,OUT027,1985,Standard,Rural,Superstore C
+652,FDV28,16.1,Standard,0.159728395,Frozen Foods,34.3558,OUT046,1997,Compact,Urban,Superstore A
+653,FDP08,20.5,Standard,0.112584813,Produce,192.0478,OUT049,1999,Standard,Urban,Superstore A
+654,FDI24,10.3,Reduced,0.078903499,Baking Goods,177.637,OUT045,2002,,Suburban,Superstore A
+655,FDI21,5.59,Standard,0.094741514,Snack Foods,63.1168,OUT010,1998,,Rural,MiniMart
+656,FDW50,13.1,Reduced,0.076005548,Edibles,166.1158,OUT017,2007,,Suburban,Superstore A
+657,FDM57,11.65,Standard,0.076278201,Snack Foods,85.1908,OUT017,2007,,Suburban,Superstore A
+658,FDK40,7.035,Reduced,0.021883368,Frozen Foods,263.791,OUT049,1999,Standard,Urban,Superstore A
+659,FDD09,,Reduced,0.021392306,Produce,182.0976,OUT027,1985,Standard,Rural,Superstore C
+660,FDY19,19.75,Reduced,0.041448824,Produce,116.5466,OUT045,2002,,Suburban,Superstore A
+661,FDJ57,7.42,Standard,0.021573645,Seafood,184.6582,OUT046,1997,Compact,Urban,Superstore A
+662,DRC49,8.67,Reduced,0.065424208,Beverages,145.8128,OUT035,2004,Compact,Suburban,Superstore A
+663,FDU19,8.77,Standard,0.046866331,Produce,170.5422,OUT045,2002,,Suburban,Superstore A
+664,FDU43,19.35,Standard,0,Produce,238.6564,OUT013,1987,Spacious,Rural,Superstore A
+665,FDU07,11.1,Reduced,0.059940022,Produce,149.1366,OUT049,1999,Standard,Urban,Superstore A
+666,FDS02,10.195,Standard,0.146094132,Edibles,196.1794,OUT049,1999,Standard,Urban,Superstore A
+667,FDG04,13.1,Reduced,0.006061565,Frozen Foods,188.9898,OUT035,2004,Compact,Suburban,Superstore A
+668,FDO20,12.85,Standard,0.152988295,Produce,253.7382,OUT017,2007,,Suburban,Superstore A
+669,FDT40,,Reduced,0.095331433,Frozen Foods,125.5678,OUT027,1985,Standard,Rural,Superstore C
+670,FDV36,,Reduced,0.026174636,Baking Goods,127.102,OUT027,1985,Standard,Rural,Superstore C
+671,FDY01,11.8,Standard,0.170548238,Canned,113.8834,OUT049,1999,Standard,Urban,Superstore A
+672,NCI06,11.3,Reduced,0.04767798,HomeGoods,181.466,OUT013,1987,Spacious,Rural,Superstore A
+673,FDA15,9.3,Reduced,0.016113019,Edibles,248.8092,OUT017,2007,,Suburban,Superstore A
+674,DRM59,,Reduced,0.003574698,Hard Drinks,154.6998,OUT027,1985,Standard,Rural,Superstore C
+675,FDZ22,,Reduced,0.079261744,Snack Foods,81.825,OUT019,1985,Compact,Urban,MiniMart
+676,FDB52,17.75,Reduced,0.030410273,Edibles,256.0672,OUT013,1987,Spacious,Rural,Superstore A
+677,FDB56,8.75,Standard,0.074565098,Produce,186.8556,OUT013,1987,Spacious,Rural,Superstore A
+678,NCP05,19.6,Reduced,0.042324556,Health and Hygiene,150.9024,OUT010,1998,,Rural,MiniMart
+679,FDV26,20.25,Standard,0,Edibles,194.2794,OUT049,1999,Standard,Urban,Superstore A
+680,FDX15,,Reduced,0.155541973,Proteins,159.7578,OUT027,1985,Standard,Rural,Superstore C
+681,NCG07,12.3,Reduced,0.052502049,HomeGoods,190.853,OUT046,1997,Compact,Urban,Superstore A
+682,FDM51,11.8,Standard,0.02592132,Proteins,101.9674,OUT035,2004,Compact,Suburban,Superstore A
+683,NCN54,20.35,Reduced,0.021326471,HomeGoods,76.1328,OUT046,1997,Compact,Urban,Superstore A
+684,FDE40,,Standard,0.173587926,Edibles,60.0194,OUT019,1985,Compact,Urban,MiniMart
+685,FDB05,5.155,Reduced,0.083327693,Frozen Foods,247.2776,OUT049,1999,Standard,Urban,Superstore A
+686,NCK30,14.85,Reduced,0.060927824,HomeGoods,254.8698,OUT013,1987,Spacious,Rural,Superstore A
+687,FDK02,12.5,Reduced,0.112203445,Canned,121.144,OUT035,2004,Compact,Suburban,Superstore A
+688,FDU26,16.7,Standard,0.042685217,Edibles,120.7782,OUT049,1999,Standard,Urban,Superstore A
+689,FDH24,20.7,Reduced,0.021552357,Baking Goods,157.0288,OUT017,2007,,Suburban,Superstore A
+690,FDQ36,7.855,Standard,0.162205516,Baking Goods,36.2848,OUT018,2009,Standard,Rural,Superstore B
+691,FDN32,17.5,Reduced,0.015591925,Produce,184.8266,OUT045,2002,,Suburban,Superstore A
+692,FDH17,16.2,Standard,0.016639482,Frozen Foods,95.8726,OUT013,1987,Spacious,Rural,Superstore A
+693,FDL21,,Standard,0.01251245,Snack Foods,38.748,OUT019,1985,Compact,Urban,MiniMart
+694,FDX36,,Standard,0.224607399,Baking Goods,223.1404,OUT019,1985,Compact,Urban,MiniMart
+695,FDX03,15.85,Standard,0.102262138,Proteins,47.1744,OUT010,1998,,Rural,MiniMart
+696,NCC54,17.75,Reduced,0.097692448,Health and Hygiene,242.4196,OUT035,2004,Compact,Suburban,Superstore A
+697,FDC45,17,Reduced,0.135944247,Produce,171.5106,OUT049,1999,Standard,Urban,Superstore A
+698,FDP40,4.555,Standard,0.034328578,Frozen Foods,110.1544,OUT013,1987,Spacious,Rural,Superstore A
+699,NCA30,19,Reduced,0,HomeGoods,189.1872,OUT046,1997,Compact,Urban,Superstore A
+700,FDJ15,,Standard,0.023209537,Edibles,183.3608,OUT027,1985,Standard,Rural,Superstore C
+701,FDT13,14.85,Reduced,0,Canned,187.7214,OUT010,1998,,Rural,MiniMart
+702,FDP03,5.15,Standard,0.061301149,Proteins,122.1388,OUT045,2002,,Suburban,Superstore A
+703,NCY18,7.285,Reduced,0.031278532,HomeGoods,176.0054,OUT018,2009,Standard,Rural,Superstore B
+704,DRJ39,20.25,Reduced,0.036326064,Edibles,220.1482,OUT046,1997,Compact,Urban,Superstore A
+705,FDR22,,Standard,0.018472714,Snack Foods,109.9544,OUT027,1985,Standard,Rural,Superstore C
+706,FDU35,6.44,Reduced,0,Breads,99.87,OUT045,2002,,Suburban,Superstore A
+707,FDU57,8.27,Standard,0.089554186,Snack Foods,150.8708,OUT046,1997,Compact,Urban,Superstore A
+708,FDT24,12.35,Standard,0,Baking Goods,76.2328,OUT046,1997,Compact,Urban,Superstore A
+709,FDZ08,12.5,Standard,0.109900843,Produce,83.0592,OUT013,1987,Spacious,Rural,Superstore A
+710,NCI54,15.2,Reduced,0.033651278,HomeGoods,108.9912,OUT049,1999,Standard,Urban,Superstore A
+711,FDM39,6.42,Reduced,0.053426165,Edibles,178.7002,OUT013,1987,Spacious,Rural,Superstore A
+712,FDM56,16.7,Reduced,0.070588621,Produce,107.9912,OUT017,2007,,Suburban,Superstore A
+713,FDR16,5.845,Standard,0.104998144,Frozen Foods,213.2218,OUT035,2004,Compact,Suburban,Superstore A
+714,DRD24,13.85,Reduced,0.030842963,Beverages,143.1154,OUT049,1999,Standard,Urban,Superstore A
+715,FDS07,12.35,Reduced,0.100164204,Produce,113.6518,OUT018,2009,Standard,Rural,Superstore B
+716,FDI27,,Standard,0.045763623,Edibles,43.8744,OUT027,1985,Standard,Rural,Superstore C
+717,FDN58,13.8,Standard,0.057104066,Snack Foods,232.6984,OUT018,2009,Standard,Rural,Superstore B
+718,DRK12,9.5,Reduced,0.041971264,Beverages,33.39,OUT045,2002,,Suburban,Superstore A
+719,FDV45,16.75,Reduced,0.045117476,Snack Foods,187.9556,OUT049,1999,Standard,Urban,Superstore A
+720,NCA29,10.5,Reduced,0.02727641,HomeGoods,171.3106,OUT046,1997,Compact,Urban,Superstore A
+721,NCH55,,Reduced,0.060706749,HomeGoods,127.502,OUT019,1985,Compact,Urban,MiniMart
+722,NCR38,17.25,Reduced,0.113518466,HomeGoods,253.5724,OUT046,1997,Compact,Urban,Superstore A
+723,FDB57,20.25,Standard,0.018911474,Produce,220.5772,OUT017,2007,,Suburban,Superstore A
+724,NCO41,12.5,Reduced,0.018848862,Health and Hygiene,96.7384,OUT046,1997,Compact,Urban,Superstore A
+725,DRE60,9.395,Reduced,0.160235723,Beverages,227.872,OUT017,2007,,Suburban,Superstore A
+726,DRE37,13.5,Reduced,0,Beverages,189.1872,OUT035,2004,Compact,Suburban,Superstore A
+727,FDN51,17.85,Standard,0.020942867,Proteins,260.2936,OUT035,2004,Compact,Suburban,Superstore A
+728,NCY42,6.38,Reduced,0.015162573,HomeGoods,145.147,OUT046,1997,Compact,Urban,Superstore A
+729,FDK25,11.6,Standard,0.156802171,Breakfast,168.0474,OUT035,2004,Compact,Suburban,Superstore A
+730,FDF02,16.2,Reduced,0.103634038,Canned,101.399,OUT049,1999,Standard,Urban,Superstore A
+731,FDM08,10.1,Standard,0.053692878,Produce,222.9088,OUT045,2002,,Suburban,Superstore A
+732,FDW08,12.1,Reduced,0.148986013,Produce,106.528,OUT018,2009,Standard,Rural,Superstore B
+733,FDQ08,15.7,Standard,0.018926773,Produce,60.2536,OUT035,2004,Compact,Suburban,Superstore A
+734,NCL30,18.1,Reduced,0.048940428,HomeGoods,127.5336,OUT046,1997,Compact,Urban,Superstore A
+735,FDJ03,12.35,Standard,0.121174241,Edibles,47.8692,OUT010,1998,,Rural,MiniMart
+736,NCY29,,Reduced,0.076860103,Health and Hygiene,55.993,OUT027,1985,Standard,Rural,Superstore C
+737,NCI30,,Reduced,0.103188491,HomeGoods,244.346,OUT019,1985,Compact,Urban,MiniMart
+738,FDN38,6.615,Standard,0.091971856,Canned,251.6408,OUT046,1997,Compact,Urban,Superstore A
+739,FDI40,11.5,Standard,0.125602951,Frozen Foods,100.8358,OUT046,1997,Compact,Urban,Superstore A
+740,FDR31,,Standard,0.048924811,Produce,147.4102,OUT027,1985,Standard,Rural,Superstore C
+741,FDS28,8.18,Standard,0.082386011,Frozen Foods,56.6588,OUT035,2004,Compact,Suburban,Superstore A
+742,DRN36,15.2,Reduced,0.050279604,Beverages,94.1752,OUT045,2002,,Suburban,Superstore A
+743,FDC15,18.1,Reduced,0.178694026,Edibles,158.9288,OUT018,2009,Standard,Rural,Superstore B
+744,NCP17,,Reduced,0.027580163,Health and Hygiene,62.2168,OUT027,1985,Standard,Rural,Superstore C
+745,FDG09,,Standard,0.047704151,Produce,187.2556,OUT027,1985,Standard,Rural,Superstore C
+746,FDO10,,Standard,0.01268995,Snack Foods,56.4588,OUT027,1985,Standard,Rural,Superstore C
+747,FDL10,8.395,Reduced,0.039572298,Snack Foods,100.9042,OUT045,2002,,Suburban,Superstore A
+748,FDM20,10,Reduced,0.038904624,Produce,245.4144,OUT017,2007,,Suburban,Superstore A
+749,NCK06,5.03,Reduced,0.008664064,HomeGoods,119.3756,OUT045,2002,,Suburban,Superstore A
+750,FDG22,17.6,Standard,0.041615224,Snack Foods,37.219,OUT017,2007,,Suburban,Superstore A
+751,FDV01,19.2,Standard,0.085082648,Canned,153.5314,OUT049,1999,Standard,Urban,Superstore A
+752,FDO09,13.5,Standard,0.125274674,Snack Foods,262.191,OUT046,1997,Compact,Urban,Superstore A
+753,FDK02,12.5,Reduced,0.112399145,Canned,120.444,OUT049,1999,Standard,Urban,Superstore A
+754,FDK10,5.785,Standard,0.040523265,Snack Foods,177.866,OUT018,2009,Standard,Rural,Superstore B
+755,FDN13,18.6,Reduced,0.152366659,Breakfast,98.5358,OUT045,2002,,Suburban,Superstore A
+756,NCE42,21.1,Reduced,0.010602292,HomeGoods,235.3958,OUT046,1997,Compact,Urban,Superstore A
+757,NCL31,7.39,Reduced,0.120467994,Others,145.147,OUT049,1999,Standard,Urban,Superstore A
+758,FDI24,10.3,Reduced,0.078728915,Baking Goods,178.437,OUT035,2004,Compact,Suburban,Superstore A
+759,NCE18,10,Reduced,0.021421289,HomeGoods,248.375,OUT035,2004,Compact,Suburban,Superstore A
+760,NCE43,,Reduced,0.102941345,HomeGoods,171.2448,OUT027,1985,Standard,Rural,Superstore C
+761,NCM19,12.65,Reduced,0.047333044,Others,113.8202,OUT045,2002,,Suburban,Superstore A
+762,FDD41,6.765,Standard,0.08739577,Frozen Foods,105.3306,OUT049,1999,Standard,Urban,Superstore A
+763,FDT20,10.5,Reduced,0.041479396,Produce,36.8164,OUT045,2002,,Suburban,Superstore A
+764,DRZ11,8.85,Standard,0.112893431,Beverages,123.3388,OUT045,2002,,Suburban,Superstore A
+765,FDP48,7.52,Standard,0.044272226,Baking Goods,181.395,OUT017,2007,,Suburban,Superstore A
+766,DRJ25,14.6,Reduced,0.151180862,Beverages,47.5692,OUT018,2009,Standard,Rural,Superstore B
+767,FDD08,,Reduced,0.035183156,Produce,37.8506,OUT027,1985,Standard,Rural,Superstore C
+768,FDM15,11.8,Standard,0.057410724,Proteins,149.5366,OUT035,2004,Compact,Suburban,Superstore A
+769,FDT48,,Reduced,0,Baking Goods,196.5084,OUT027,1985,Standard,Rural,Superstore C
+770,FDL10,8.395,Reduced,0.039553606,Snack Foods,99.1042,OUT049,1999,Standard,Urban,Superstore A
+771,FDT56,16,Standard,0.115826834,Produce,56.0246,OUT045,2002,,Suburban,Superstore A
+772,NCN18,,Reduced,0.124110734,HomeGoods,111.7544,OUT027,1985,Standard,Rural,Superstore C
+773,FDB46,10.5,Standard,0.094145821,Snack Foods,210.8244,OUT018,2009,Standard,Rural,Superstore B
